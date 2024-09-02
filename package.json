@@ -15,6 +15,6 @@
         "nuxt-clipboard2": "0.x"
     },
     "devDependencies": {
-        "@nuxtjs/tailwindcss": "3.x"
+        "@nuxtjs/tailwindcss": "^3.4.2"
     }
 }
